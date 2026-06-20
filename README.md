@@ -71,6 +71,12 @@ Created additional customer attributes including:
 * Identified 4 customer segments through K-Means clustering.
 * Generated targeted business recommendations for each segment.
 
+## Model Evaluation
+
+- Optimal Clusters Identified: 4
+- Silhouette Score: 0.416
+- PCA Components: 2
+
 ## Business Recommendations
 
 ### Premium Customers
